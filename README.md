@@ -66,3 +66,12 @@ def getHTMLText(url):
     except:
     if_name_=='_main_':
     url = ''
+
+
+#Scrapy的基本方法的属性
+爬虫名称：name属性
+启动方法:start_requests()  #创建时原生没有
+默认解析器方法：parse（）
+启动链接列表：start_url属性
+
+
