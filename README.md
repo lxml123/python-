@@ -52,9 +52,40 @@ Linux基础
  
  
 Linux运维动化开发
- 1
-
-
+ 1.python开发Linux运维
+ 2.Linux运维报警工具开发
+ 3.Linux运维报警安全审计开发
+ 4.Linux业务质量报表工具开发
+ 5.Kali安全检测工具检测
+ 6.Kali密码破解实战
+ 
+ 
+python数据分析（分析爬虫抓取的数据，分析规律，用于商业化）
+ 1.numpy数据处理
+ 2.pandas数据分析
+ 3.matplotib数据可视化
+ 4.scipy数据统计分析
+ 5.python金融数据分析
+ 
+ 
+python大数据（python操作大数据）
+ 1.Hadoop HDFS
+ 2.python Hadoop MapReduce
+ 3.python Spark core
+ 4.python Spark SQL
+ 5.python Spark MLlib
+ 
+ 
+python机器学习（机器学习的一些入门概念和案例）
+ 1.机器学习基础知识简介
+ 2.KNN算法
+ 3.线性回归
+ 4.逻辑斯蒂回归算法
+ 5.决策算法
+ 6.朴素贝叶斯算法
+ 7.支持向量机
+ 8.聚类K-means算法。
+ 
 
 #pip安装方法    MOOC8.3
 #使用pip安装工具
